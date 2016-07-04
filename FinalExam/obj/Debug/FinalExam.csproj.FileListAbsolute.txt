@@ -1,0 +1,11 @@
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.csprojResolveAssemblyReference.cache
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.Form1.resources
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.FormParameter.resources
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.FormLive.resources
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.Properties.Resources.resources
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.GenerateResource.Cache
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+c:\users\miko晴\documents\visual studio 2015\Projects\FinalExam\FinalExam\obj\Debug\FinalExam.pdb
